@@ -1,3 +1,9 @@
+/*2019-08-27: 
+Added file to Github repository for LAC RAD. 
+*/
+
+
+
 * Create data
 clear
 set obs 10
